@@ -8,7 +8,7 @@
 
 This is computer Networking course project. The purpose of this experiment is to write a simple router using visual C++ to implement IP datagram forwarding. The experiment can be performed in a LAN using the following environment:
 
-! [Alt text](./pic1.png)
+![Alt text](./pic1.png)
 
 The routers R1 and R2 are general-purpose computers connected to different subnets. Bind IPs through the routing programs running on R1 and R2. By adding routing tables through the routing programs, analyze and forward the received packets, and realize the communication between hosts I and II in different networks. The communication test is performed by the `ping` command, and the tracer + IP address can be used to trace the forwarding path of packets in the network.
 
